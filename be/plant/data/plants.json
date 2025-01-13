@@ -1,0 +1,42 @@
+[
+    {
+        "model": "plant.Plant",
+        "pk": 1,
+        "fields": {
+            "name": "apple",
+            "image": "apple_healthy.png"
+        }
+    },
+    {
+        "model": "plant.Plant",
+        "pk": 2,
+        "fields": {
+            "name": "corn(maize)",
+            "image": "corn_maize_healthy.png"
+        }
+    },
+    {
+        "model": "plant.Plant",
+        "pk": 3,
+        "fields": {
+            "name": "grape",
+            "image": "grape_healthy.png"
+        }
+    },
+    {
+        "model": "plant.Plant",
+        "pk": 4,
+        "fields": {
+            "name": "potato",
+            "image": "potatot_healthy.png"
+        }
+    },
+    {
+        "model": "plant.Plant",
+        "pk": 5,
+        "fields": {
+            "name": "tomato",
+            "image": "tomato_healthy.png"
+        }
+    }
+]

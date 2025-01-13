@@ -1,0 +1,93 @@
+[
+    {
+      "model": "plant.Cure",
+      "pk": 1,
+      "fields": {
+        "name": "Copper Fungicide",
+        "image": "copper_fungicide.png",
+        "description": "Copper fungicide is commonly used to control fungal diseases in plants. It is effective against a wide range of fungi and is often used on fruit trees, vegetables, and ornamental plants."
+      }
+    },
+    {
+      "model": "plant.Cure",
+      "pk": 2,
+      "fields": {
+        "name": "Neem Oil",
+        "image": "neem_oil.png",
+        "description": "Neem oil is a natural insecticide and fungicide derived from the neem tree. It is effective in controlling a variety of pests and diseases, including powdery mildew, black spot, and rust."
+      }
+    },
+    {
+      "model": "plant.Cure",
+      "pk": 3,
+      "fields": {
+        "name": "Bordeaux Mixture",
+        "image": "bordeaux_mixture.png",
+        "description": "Bordeaux mixture is a combination of copper sulfate and lime. It is used as a broad-spectrum fungicide to protect plants from diseases such as downy mildew, leaf blight, and anthracnose."
+      }
+    },
+    {
+      "model": "plant.Cure",
+      "pk": 4,
+      "fields": {
+        "name": "Sulfur Fungicide",
+        "image": "sulfur_fungicide.png",
+        "description": "Sulfur fungicide is used to control fungal diseases like powdery mildew, scab, and rust. It is safe for most plants and can be applied as a dust or spray."
+      }
+    },
+    {
+      "model": "plant.Cure",
+      "pk": 5,
+      "fields": {
+        "name": "Bacillus thuringiensis (Bt)",
+        "image": "bacillus_thuringiensis.png",
+        "description": "Bacillus thuringiensis (Bt) is a naturally occurring bacterium used as a biological pesticide. It is effective against a variety of insect larvae, including caterpillars and leaf beetles."
+      }
+    },
+    {
+      "model": "plant.Cure",
+      "pk": 6,
+      "fields": {
+        "name": "Potassium Bicarbonate",
+        "image": "potassium_bicarbonate.png",
+        "description": "Potassium bicarbonate is used as a fungicide to control powdery mildew, anthracnose, and other fungal diseases. It works by disrupting the fungal cell wall, leading to dehydration and death of the fungus."
+      }
+    },
+    {
+      "model": "plant.Cure",
+      "pk": 7,
+      "fields": {
+        "name": "Horticultural Oil",
+        "image": "horticultural_oil.png",
+        "description": "Horticultural oil is used to control a variety of insect pests and diseases. It works by smothering insects and disrupting the life cycle of pests such as aphids, mites, and whiteflies."
+      }
+    },
+    {
+      "model": "plant.Cure",
+      "pk": 8,
+      "fields": {
+        "name": "Milk Spray",
+        "image": "milk_spray.png",
+        "description": "Milk spray is an organic remedy used to control powdery mildew on plants. The proteins in milk act as a natural fungicide, helping to prevent and reduce fungal growth."
+      }
+    },
+    {
+      "model": "plant.Cure",
+      "pk": 9,
+      "fields": {
+        "name": "Garlic Spray",
+        "image": "garlic_spray.png",
+        "description": "Garlic spray is a natural pesticide and fungicide. It is effective against a variety of pests and diseases, including aphids, caterpillars, and fungal infections like powdery mildew."
+      }
+    },
+    {
+      "model": "plant.Cure",
+      "pk": 10,
+      "fields": {
+        "name": "Chamomile Tea",
+        "image": "chamomile_tea.png",
+        "description": "Chamomile tea can be used as a natural fungicide to prevent damping-off disease in seedlings. It contains sulfur and other compounds that have antifungal properties."
+      }
+    }
+  ]
+  

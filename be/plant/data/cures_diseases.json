@@ -1,0 +1,267 @@
+[
+    {
+      "model": "plant.CureDisease",
+      "pk": 1,
+      "fields": {
+        "cure": 1,
+        "disease": 1
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 2,
+      "fields": {
+        "cure": 1,
+        "disease": 2
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 3,
+      "fields": {
+        "cure": 1,
+        "disease": 3
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 4,
+      "fields": {
+        "cure": 1,
+        "disease": 6
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 5,
+      "fields": {
+        "cure": 2,
+        "disease": 1
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 6,
+      "fields": {
+        "cure": 2,
+        "disease": 2
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 7,
+      "fields": {
+        "cure": 2,
+        "disease": 4
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 8,
+      "fields": {
+        "cure": 2,
+        "disease": 7
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 9,
+      "fields": {
+        "cure": 3,
+        "disease": 1
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 10,
+      "fields": {
+        "cure": 3,
+        "disease": 2
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 11,
+      "fields": {
+        "cure": 3,
+        "disease": 6
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 12,
+      "fields": {
+        "cure": 4,
+        "disease": 1
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 13,
+      "fields": {
+        "cure": 4,
+        "disease": 2
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 14,
+      "fields": {
+        "cure": 4,
+        "disease": 5
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 15,
+      "fields": {
+        "cure": 4,
+        "disease": 9
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 16,
+      "fields": {
+        "cure": 5,
+        "disease": 10
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 17,
+      "fields": {
+        "cure": 5,
+        "disease": 11
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 18,
+      "fields": {
+        "cure": 6,
+        "disease": 3
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 19,
+      "fields": {
+        "cure": 6,
+        "disease": 4
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 20,
+      "fields": {
+        "cure": 6,
+        "disease": 12
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 21,
+      "fields": {
+        "cure": 6,
+        "disease": 15
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 22,
+      "fields": {
+        "cure": 7,
+        "disease": 12
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 23,
+      "fields": {
+        "cure": 7,
+        "disease": 13
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 24,
+      "fields": {
+        "cure": 7,
+        "disease": 17
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 25,
+      "fields": {
+        "cure": 8,
+        "disease": 1
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 26,
+      "fields": {
+        "cure": 8,
+        "disease": 4
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 27,
+      "fields": {
+        "cure": 8,
+        "disease": 10
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 28,
+      "fields": {
+        "cure": 9,
+        "disease": 1
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 29,
+      "fields": {
+        "cure": 9,
+        "disease": 13
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 30,
+      "fields": {
+        "cure": 9,
+        "disease": 17
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 31,
+      "fields": {
+        "cure": 10,
+        "disease": 4
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 32,
+      "fields": {
+        "cure": 10,
+        "disease": 5
+      }
+    },
+    {
+      "model": "plant.CureDisease",
+      "pk": 33,
+      "fields": {
+        "cure": 10,
+        "disease": 10
+      }
+    }
+  ]
+  
