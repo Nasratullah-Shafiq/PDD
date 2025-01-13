@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --success: #5DF69B;
+}
+
+*{
+    font-size: 94%;
+}
+
+body{
+    height: 100vh;
+}
+
+.from-down-to-top{
+    animation: from-down-to-top .2s ease-in forwards;
+}
+
+textarea{
+    resize: none;
+}
+textarea::-webkit-scrollbar{
+    background: transparent;
+}
+
+table{
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.no-spinners::-webkit-inner-spin-button,
+.no-spinners::-webkit-outer-spin-button,
+.no-spinners::-webkit-clear-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.no-spinners {
+    padding-right: 1px;
+}
+
+*::-webkit-scrollbar{
+    background: #e5e7eb;
+}
+
+*::-webkit-scrollbar-thumb{
+    background: #898a8d;
+}
+
+.input-group {
+    padding: 20px;
+    display: flex;
+}
+
+.input-group input{
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.input-group button{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border: 1px;
+}
+
+.input-group-reverse{
+    padding: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.input-group-reverse input{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.input-group-reverse button{
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border: 1px;
+}
+
+ul li{
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.active{
+    background: var(--success);
+}
+
+@media (max-width:1400px) {
+   .card{
+    size: 80%;
+   }
+   .card h2{
+    font-size: 22px;
+   }
+   .card p{
+    font-size: 16px;
+   }
+}
+
+@media (max-width:470px) {
+    .main{
+        padding-top: 10rem;
+    }
+    .card{
+        width: 80%;
+        margin: 0 auto;
+    }
+}
