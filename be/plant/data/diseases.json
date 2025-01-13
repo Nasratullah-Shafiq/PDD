@@ -1,0 +1,213 @@
+[
+  {
+      "model": "plant.Disease",
+      "pk": 1,
+      "fields": {
+          "name": "Apple___Apple_scab",
+          "plant": 1,
+          "image": "apple_scab.png",
+          "description": "Apple scab is a common fungal disease that affects apple trees, caused by the fungus Venturia inaequalis. This disease can significantly impact the quality and yield of apple crops."
+      }
+  },
+  {
+      "model": "plant.Disease",
+      "pk": 2,
+      "fields": {
+          "name": "Apple___Black_rot",
+          "plant": 1,
+          "image": "apple_black_rot.png",
+          "description": "Black rot is a serious fungal disease that affects apples and other fruit trees, caused by the fungus Botryosphaeria obtusa. This disease can cause significant damage to leaves, fruit, and twigs, leading to substantial losses in apple orchards."
+      }
+  },
+  {
+      "model": "plant.Disease",
+      "pk": 3,
+      "fields": {
+          "name": "Apple___Cedar_apple_rust",
+          "plant": 1,
+          "image": "apple_cedar_rust.png",
+          "description": "Apple cedar rust is a fungal disease caused by the fungus Gymnosporangium juniperi-virginianae. It affects apple trees and eastern red cedar trees, leading to yellow-orange spots on leaves and fruit."
+      }
+  },
+  {
+      "model": "plant.Disease",
+      "pk": 4,
+      "fields": {
+          "name": "Corn(maize)___Cercospora_leaf_spot_Gray_leaf_spot",
+          "plant": 2,
+          "image": "corn_cercospora_leaf_spot.png",
+          "description": "Cercospora leaf spot, also known as gray leaf spot, is caused by the fungus Cercospora zeae-maydis. It results in gray to tan lesions on corn leaves, potentially reducing photosynthetic activity and yield."
+      }
+  },
+  {
+      "model": "plant.Disease",
+      "pk": 5,
+      "fields": {
+          "name": "Corn(maize)___Common_rust",
+          "plant": 2,
+          "image": "corn_common_rust.png",
+          "description": "Common rust in corn is caused by the fungus Puccinia sorghi. This disease presents as reddish-brown pustules on both leaf surfaces and can reduce photosynthetic capability and yield."
+      }
+  },
+  {
+      "model": "plant.Disease",
+      "pk": 6,
+      "fields": {
+          "name": "Corn(maize)___Northern_Leaf_Blight",
+          "plant": 2,
+          "image": "corn_northern_leaf_blight.png",
+          "description": "Northern Leaf Blight, caused by the fungus Exserohilum turcicum, appears as long, gray-green lesions on corn leaves, which can lead to significant yield losses if not managed."
+      }
+  },
+  {
+      "model": "plant.Disease",
+      "pk": 7,
+      "fields": {
+          "name": "Grape___Black_rot",
+          "plant": 3,
+          "image": "grape_black_rot.png",
+          "description": "Grape black rot is a fungal disease caused by Guignardia bidwellii. It affects grape leaves, shoots, and berries, resulting in black lesions and potentially severe crop loss."
+      }
+  },
+  {
+      "model": "plant.Disease",
+      "pk": 8,
+      "fields": {
+          "name": "Grape___Esca_(Black_Measles)",
+          "plant": 3,
+          "image": "grape_esca.png",
+          "description": "Esca, also known as black measles, is a complex fungal disease affecting grapevines, caused by multiple pathogens. Symptoms include leaf striping, berry shriveling, and wood necrosis."
+      }
+  },
+  {
+      "model": "plant.Disease",
+      "pk": 9,
+      "fields": {
+          "name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+          "plant": 3,
+          "image": "grape_leaf_blight.png",
+          "description": "Grape leaf blight, caused by the fungus Pseudocercospora vitis, results in dark, necrotic lesions on leaves, reducing photosynthesis and potentially impacting grape yield and quality."
+      }
+  },
+  {
+      "model": "plant.Disease",
+      "pk": 10,
+      "fields": {
+          "name": "Potato___Early_blight",
+          "plant": 4,
+          "image": "potato_early_blight.png",
+          "description": "Potato early blight, caused by the fungus Alternaria solani, leads to concentric ring lesions on leaves and stems, weakening plants and reducing tuber yield."
+      }
+  },
+  {
+      "model": "plant.Disease",
+      "pk": 11,
+      "fields": {
+          "name": "Potato___Late_blight",
+          "plant": 4,
+          "image": "potato_late_blight.png",
+          "description": "Potato late blight, caused by the oomycete Phytophthora infestans, is a devastating disease that causes dark, water-soaked lesions on leaves and stems, and can rot tubers in the field or storage."
+        }
+    },
+    {
+        "model": "plant.Disease",
+        "pk": 12,
+        "fields": {
+            "name": "Tomato___Bacterial_spot",
+            "plant": 5,
+            "image": "tomato_bacterial_spot.png",
+            "description": "Tomato bacterial spot, caused by Xanthomonas species, manifests as small, water-soaked spots on leaves, stems, and fruit, leading to defoliation and reduced fruit quality."
+        }
+    },
+    {
+        "model": "plant.Disease",
+        "pk": 13,
+        "fields": {
+            "name": "Tomato___Early_blight",
+            "plant": 5,
+            "image": "tomato_early_blight.png",
+            "description": "Tomato early blight, caused by Alternaria solani, results in dark, concentric lesions on leaves and stems, which can lead to significant defoliation and yield loss."
+        }
+    },
+    {
+        "model": "plant.Disease",
+        "pk": 14,
+        "fields": {
+            "name": "Tomato___Late_blight",
+            "plant": 5,
+            "image": "tomato_late_blight.png",
+            "description": "Tomato late blight, caused by Phytophthora infestans, causes dark, water-soaked lesions on foliage, stems, and fruit, often leading to rapid plant collapse and significant crop loss."
+        }
+    },
+    {
+        "model": "plant.Disease",
+        "pk": 15,
+        "fields": {
+            "name": "Tomato___Leaf_Mold",
+            "plant": 5,
+            "image": "tomato_leaf_mold.png",
+            "description": "Tomato leaf mold, caused by the fungus Passalora fulva, results in yellow spots on the upper leaf surface and velvety, olive-green mold on the underside, reducing photosynthetic capacity."
+        }
+    },
+    {
+        "model": "plant.Disease",
+        "pk": 16,
+        "fields": {
+            "name": "Tomato___Septoria_leaf_spot",
+            "plant": 5,
+            "image": "tomato_septoria_leaf_spot.png",
+            "description": "Tomato septoria leaf spot, caused by the fungus Septoria lycopersici, appears as small, circular spots with dark borders on leaves, leading to defoliation and reduced fruit yield."
+        }
+    },
+    {
+        "model": "plant.Disease",
+        "pk": 17,
+        "fields": {
+            "name": "Tomato___Spider_mites Two-spotted_spider_mite",
+            "plant": 5,
+            "image": "tomato_spider_mites.png",
+            "description": "Tomato spider mites, particularly Tetranychus species, cause stippling and yellowing of leaves as they feed on plant sap, potentially leading to leaf drop and reduced plant vigor."
+        }
+    },
+    {
+        "model": "plant.Disease",
+        "pk": 18,
+        "fields": {
+            "name": "Tomato___Target_Spot",
+            "plant": 5,
+            "image": "tomato_target_spot.png",
+            "description": "Tomato target spot, caused by the fungus Corynespora cassiicola, results in brown lesions with concentric rings on leaves and fruit, leading to defoliation and fruit rot."
+        }
+    },
+    {
+        "model": "plant.Disease",
+        "pk": 19,
+        "fields": {
+            "name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+            "plant": 5,
+            "image": "tomato_yellow_leaf_curl_virus.png",
+            "description": "Tomato yellow leaf curl virus, transmitted by whiteflies, causes severe leaf curling, yellowing, and stunted growth, significantly impacting tomato yield and quality."
+        }
+    },
+    {
+        "model": "plant.Disease",
+        "pk": 20,
+        "fields": {
+            "name": "Tomato___Tomato_mosaic_virus",
+            "plant": 5,
+            "image": "tomato_mosaic_virus.png",
+            "description": "Tomato mosaic virus causes mottling, yellowing, and distortion of leaves, reducing photosynthesis and overall plant health, often leading to reduced fruit yield and quality."
+        }
+    },
+    {
+        "model": "plant.Disease",
+        "pk": 21,
+        "fields": {
+            "name": "Tomato___healthy",
+            "plant": 5,
+            "image": "tomato_healthy.png",
+            "description": "Healthy tomato plant."
+        }
+    }
+]
+
