@@ -19,7 +19,7 @@ a web app  that helps you detect whether the plant is healthy or infected. If an
 
 1. Clone the repository to your local machine:
 
-    <code>git clone https://github.com/BodaTech/PLANTS_DISEASE_DETECTION_WEBAPP.git</code>
+    <code>git clone https://github.com/Nasratullah-Shafiq/PDD.git</code>
 
 2. Navigate to the backend directory:
 
