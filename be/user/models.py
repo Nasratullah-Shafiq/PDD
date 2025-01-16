@@ -10,7 +10,7 @@ class Diagnostic(models.Model):
         on_delete=models.CASCADE,
         related_name='diagnostics'
     )
-
+ 
     disease = models.ForeignKey(
         'plant.Disease',
         on_delete=models.CASCADE,
