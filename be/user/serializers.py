@@ -14,4 +14,4 @@ class DiagnosticDetailSerializer(ModelSerializer):
     disease = DiseaseSerializer()
     class Meta:
         model = Diagnostic
-        fields = '__all__'
+        fields = '__all__' 
